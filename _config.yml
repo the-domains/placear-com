@@ -1,0 +1,28 @@
+name: placear.com
+favicon: null
+layout_spectrum: 0.7793195224367082
+typography_spectrum: 0.49004221498034894
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6453232383355498
+  lightness: 0.8761882453691214
+  saturation: 0.5243659422267228
+  rhythmicContrast: 0.7471721770707518
+purpose: []
